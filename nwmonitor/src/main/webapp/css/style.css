@@ -1,0 +1,24 @@
+
+/* Overview Grid style */
+
+.gridStyle {
+    border: 1px solid rgb(212,212,212);
+    width: 960px;     
+    height:123px;
+}
+
+.bold-title{
+	font-weight: bold;
+	font-size: 20px;
+	
+}
+
+.my-heroUnit
+{
+	padding : 40px
+}
+
+.green {
+    background-color: green;
+    color: white;
+}
